@@ -1,0 +1,13 @@
+{
+  "name": "DataClient",
+  "version": "0.0.0",
+  "description": "DataClient",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Reichelt",
+    "email": "paul.reichelt@outlook.com"
+  },
+   "dependencies": {
+	"request" : "2.x"
+  }
+}
