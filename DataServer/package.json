@@ -1,0 +1,13 @@
+{
+  "name": "DataServer",
+  "version": "0.0.0",
+  "description": "DataServer",
+  "main": "app.js",
+  "author": {
+    "name": "Paul Reichelt",
+    "email": "paul.reichelt@outlook.com"
+  },
+  "dependencies": {
+    "express": "3.x"
+  }
+}
